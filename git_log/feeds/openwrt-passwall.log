@@ -1,16 +1,21 @@
 <details> <summary> <b>openwrt-passwall new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/4162fe150921b5725489ba2d668d48da88bd7c0d...3b97ffe4e96dbd5494052818c04a6ecaab0277c3)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall/compare/3b97ffe4e96dbd5494052818c04a6ecaab0277c3...1ff731bd5461d31b9fa737b3b07930146260821e)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-3b97ffe|A-BO|Mon May 4 20:33:45 2026 +0800|luci: optimize
-9365b3f|David Mandy|Mon May 4 00:12:44 2026 +0800|ci: update dependency versions
-ffea67c|A-BO|Sun May 3 23:39:06 2026 +0800|luci: 26.5.3
-e51dc7f|A-BO|Sun May 3 23:35:36 2026 +0800|luci: support xray freedom `finalRules` (action = allow) (#4352)
-f102b0d|A-BO|Sun May 3 13:55:05 2026 +0800|luci: fix
-8a5adeb|A-BO|Sun May 3 13:29:33 2026 +0800|luci: unified conver of node address to lowercase
-3d57203|A-BO|Sun May 3 01:10:11 2026 +0800|luci: refactor cron code
-11c4b72|A-BO|Sat May 2 14:31:09 2026 +0800|luci: simplify remote doh parameters
+1ff731b|A-BO|Thu May 7 14:04:00 2026 +0800|luci: add haproxy version check
+bcf377f|A-BO|Thu May 7 09:55:35 2026 +0800|luci: optimize and fixup
+1c4616d|A-BO|Wed May 6 23:16:59 2026 +0800|luci: fix firewall `update_wan_sts` function
+002db09|David Mandy|Wed May 6 21:57:21 2026 +0800|ci: fixes some error
+d7908a1|David Mandy|Wed May 6 21:55:03 2026 +0800|ci: fixed some error
+d0cf6f9|David Mandy|Wed May 6 21:52:49 2026 +0800|ci: add auto close spam issue and prs action
+5362e18|David Mandy|Wed May 6 21:32:38 2026 +0800|ci: automated spam Issues
+6613409|A-BO|Wed May 6 17:20:44 2026 +0800|luci: optimize domain `blackhole` logic for xray shunt rule
+5cdbf10|A-BO|Wed May 6 15:40:31 2026 +0800|luci: modify the default value of tuic alpn
+f0343ce|A-BO|Wed May 6 11:32:14 2026 +0800|luci: optimize clash subscribe logic
+a898f36|A-BO|Tue May 5 22:32:45 2026 +0800|luci: optimize xray remote dns
+26003a2|A-BO|Tue May 5 19:49:53 2026 +0800|luci: support clash subscription parsing
+92f72ea|A-BO|Tue May 5 02:30:43 2026 +0800|luci: improve vmess subscribe
 </details>

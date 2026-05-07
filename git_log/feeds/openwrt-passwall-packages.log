@@ -1,12 +1,9 @@
 <details> <summary> <b>openwrt-passwall-packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall-packages/compare/77110414008c0985d29267fa03be80b8293cd508...dacc4e03d69ff8ea984b9b88685bd010b9da0ba5)  
+#### [:mega: Full Changelog. ](https://github.com/Openwrt-Passwall/openwrt-passwall-packages/compare/dacc4e03d69ff8ea984b9b88685bd010b9da0ba5...2d269ab22a030383addcc495a90d2449e476487b)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-dacc4e0|A-BO|Mon May 4 20:37:02 2026 +0800|ci: update dependency versions
-c1c015e|github-actions[bot]|Sun May 3 21:21:53 2026 +0800|xray-core: update to 26.5.3 (#638)
-9ead0a5|github-actions[bot]|Sun May 3 21:21:27 2026 +0800|v2ray-geoip: update to 202605021353 (#637)
-ba7f109|github-actions[bot]|Sun May 3 21:21:04 2026 +0800|v2ray-geosite: update to 202605022234 (#636)
+2d269ab|A-BO|Thu May 7 13:05:13 2026 +0800|tuic-client: update to 1.8.1
 </details>

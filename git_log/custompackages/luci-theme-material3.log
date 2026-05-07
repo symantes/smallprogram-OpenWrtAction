@@ -1,25 +1,11 @@
 <details> <summary> <b>luci-theme-material3 new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/AngelaCooljx/luci-theme-material3/compare/9b2de0c8ff6a91baf738559a2a0044d62470a805...89d47ffbd0ae6d422d889092d4efd5b00d337e78)  
+#### [:mega: Full Changelog. ](https://github.com/AngelaCooljx/luci-theme-material3/compare/89d47ffbd0ae6d422d889092d4efd5b00d337e78...ba5febf33d0d1cd76d87ff740b463e4ba058a46a)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-89d47ff|cool|Sun May 3 13:39:55 2026 +0800|Readme
-02526ea|cool|Sun May 3 13:39:39 2026 +0800|material3: refine cbi-button
-d793706|PKC278|Wed Nov 12 01:18:14 2025 +0800|feat(workflows): Add build and release workflows
-794eb41|cool|Sun May 3 12:45:19 2026 +0800|material3: expand theme palettes
-b2464ea|cool|Sun May 3 11:42:19 2026 +0800|material3: consolidate theme color mode switching
-1838d02|cool|Sun May 3 11:42:04 2026 +0800|material3: refine form controls and indicators
-493e13e|cool|Sun May 3 02:09:56 2026 +0800|material3: refine dialogs login and dashboard cards
-0e249ce|cool|Sun May 3 00:24:59 2026 +0800|material3: align footer and tabs
-370d4ed|cool|Sun May 3 00:08:01 2026 +0800|material3: refine controls and cards
-f3bb991|cool|Sat May 2 23:37:42 2026 +0800|material3: refine shell and status cards
-3605a04|cool|Sat May 2 22:37:54 2026 +0800|material3: refine theme layout colors
-b51ff4d|cool|Sat May 2 22:34:57 2026 +0800|material3: add sidebar navigation shell
-dd4de9b|cool|Sat May 2 15:55:31 2026 +0800|material3: add theme palettes and debug switcher
-2312283|cool|Sat May 2 22:25:41 2026 +0800|Rename Bootstrap -> Material3
-ad02761|cool|Fri May 1 22:45:04 2026 +0800|Import luci-theme-bootstrap from immortalwrt/luci
-
-
+ba5febf|KawaiiHachimi|Wed May 6 07:55:11 2026 +0000|material3: refine table style in dashboard
+0395795|KawaiiHachimi|Wed May 6 04:27:32 2026 +0000|material3: refine ifacebox style
+1a6f129|cool|Wed May 6 01:29:59 2026 +0800|material3: fix more details
 </details>

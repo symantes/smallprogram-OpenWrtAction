@@ -1,12 +1,16 @@
 <details> <summary> <b>packages new commit log :rocket: </b> </summary>
 
-#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/16eba2e55dc1d2889cd6ae264364f6e9e76996e4...5d9fd8b891161bb64358e3a6f5db3f604251eb76)  
+#### [:mega: Full Changelog. ](https://github.com/openwrt/packages/compare/5d9fd8b891161bb64358e3a6f5db3f604251eb76...609846743b14a10e3c5cbd466544797c9f11f323)  
 :heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
 
 SHA|Author|Date|Message
 -|-|-|-
-5d9fd8b89|Stan Grishin|Wed Apr 29 17:38:35 2026 +0000|https-dns-proxy: update to 2026.03.18-1
-8b7f590ba|Dirk Brenken|Sun May 3 19:59:52 2026 +0200|adblock: update 4.5.5-2
-4dc93bb79|Dmitriy Zh|Sun Apr 12 08:58:12 2026 +0000|fix: remove depends on PACKAGE_lpac from Config.in
-54ac30fa5|Zhitomirskiy Dmitriy|Tue Mar 31 07:53:51 2026 +0000|lpac: upgrade to 2.3.0 - enable uqmi and LPAC_WITH_PCSC
+609846743|Chester A. Unal|Sat May 2 18:56:47 2026 +0100|bsbf-resources: update to GIT HEAD of 2026-05-06
+51fdb917c|Chester A. Unal|Tue May 5 08:58:20 2026 +0100|bsbf-bonding: fix checking if interface is a bridge
+eb041d2fe|Alexandru Ardelean|Tue May 5 09:49:32 2026 +0300|avahi: update to 0.9-rc4
+fc6717da0|Rosen Penev|Thu Jan 29 21:26:43 2026 -0800|ffmpeg: update to 6.1.4
+8c48a7b3b|John Audia|Tue Apr 28 14:35:58 2026 -0400|rsync: update to 3.4.2
+fa03f55fc|Sander van Deijck|Sat May 2 23:31:15 2026 +0200|openvpn: disable wolfssl support
+deef5e5f0|Sander van Deijck|Sat May 2 20:22:11 2026 +0200|openvpn: update to 2.7.4
+a3bd79d5b|Dirk Brenken|Mon May 4 19:42:14 2026 +0200|banip: update 1.8.8-2
 </details>

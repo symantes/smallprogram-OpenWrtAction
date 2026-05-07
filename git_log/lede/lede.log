@@ -1,9 +1,0 @@
-<details> <summary> <b>lede new commit log :rocket: </b> </summary>
-
-#### [:mega: Full Changelog. ](https://github.com/coolsnowwolf/lede/compare/05513ed969da2537db9c4cebc7b90048bce7a215...58d118038f2c02756f71e461cc49c6df7d2e7581)  
-:heavy_exclamation_mark: The list displays only the latest 15 commit logs.  
-
-SHA|Author|Date|Message
--|-|-|-
-58d118038|Miles Poupart|Mon May 4 12:00:02 2026 +0800|kernel: bump 6.12 to 6.12.85
-</details>
